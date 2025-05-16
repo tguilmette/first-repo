@@ -1,2 +1,0 @@
-# first-repo
-First repo
